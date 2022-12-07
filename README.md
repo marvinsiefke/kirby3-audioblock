@@ -7,4 +7,5 @@ There are not many options yet. After installation you can add the "audio" calle
 ## Some thoughts
  - Accessibility features are missing right now (e.g. transcripts)
  - Very useful would be a support for different audio files for one audio block to support different audio sources (for reasons of a better browser support).
+
 It is possible that I need this features in future and extend this plugin.

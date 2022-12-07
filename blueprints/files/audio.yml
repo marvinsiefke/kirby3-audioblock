@@ -1,6 +1,4 @@
-title:
-	en: Audio file
-	de: Audiodatei
+title: Audio
 
 accept:
 	extension: mp3, ogg, flac, wav, opus

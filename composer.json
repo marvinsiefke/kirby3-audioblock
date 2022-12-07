@@ -3,6 +3,7 @@
 	"description": "Audio block for Kirby3",
 	"version": "1.0.0",
 	"license": "MIT",
+	"homepage": "https://github.com/marvinsiefke/kirby3-audioblock",
 	"authors": [
 		{
 			"name": "Marvin Siefke (pepper)",

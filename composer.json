@@ -1,0 +1,12 @@
+{
+	"name": "pepper/kirby3-audioblock",
+	"description": "Audio block for Kirby3",
+	"version": "1.0.0",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Marvin Siefke (pepper)",
+			"homepage": "https://pepper.green",
+		}
+	]
+}

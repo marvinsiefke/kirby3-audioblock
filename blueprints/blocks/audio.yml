@@ -1,0 +1,10 @@
+name:
+	en: Audio
+	de: Audio
+icon: file-audio
+label: "{{ audiofile.0.filename }}"
+fields:
+	audiofile:
+		type: files
+		uploads: audio
+		multiple: false
